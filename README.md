@@ -10,4 +10,4 @@ meiyun1995/meiyun1995 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-I will be dedicating time to experiment with different small projects in the AI/ML space every week.  
+Dedicating time to experiment with different small projects in the AI/ML space.  
